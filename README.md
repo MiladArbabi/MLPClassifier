@@ -1,2 +1,2 @@
 # MLPClassifier
-Frist portal into the AI 
+Frist meet with into the AI 
